@@ -1,5 +1,15 @@
-## Hi there 👋
+# Hi there I'm Enoch Godson 👋
 
+I'm a Research Analyst | Product Strategist | AI & Innovation
+
+- 🔭 I'm currently working on AI-powered products and digital solutions
+- 🌱 I'm currently learning more about AI, product development, and business strategy
+- 👯 I'm looking to collaborate on AI, technology, and innovative product ideas
+- 🤔 I'm looking for help with building and scaling impactful digital products
+- 💬 Ask me about research, product strategy, AI, e-commerce, and innovation
+- 📫 How to reach me: enochgodson75@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love turning ideas into real-world products and solutions
 <!--
 **enochgodson75-boop/enochgodson75-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-
